@@ -1,0 +1,8 @@
+.*
+*.sbt
+*.dat
+*.csv
+*.class
+*.log
+project/
+target/
